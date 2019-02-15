@@ -24,6 +24,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         mapFragment.getMapAsync(this)
 
         Log.i("TAG", "Message")
+        Log.i("TAG", "Message")
     }
 
     /**
