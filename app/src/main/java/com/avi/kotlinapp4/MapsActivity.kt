@@ -25,6 +25,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
         Log.i("TAG", "Message")
         Log.i("TAG", "Message")
+        Log.i("TAG", "Message")
     }
 
     /**
